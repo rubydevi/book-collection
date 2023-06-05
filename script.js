@@ -11,7 +11,10 @@ const addBook = (title, author) => {
 
 // Remove Book
 const removeBook = (index) => {
-  
+  books.splice(index, 1);
+  localStorage.setItem('books', JSON.stringify(books));
+  // display book
+  displayBooks();
 };
 
 // Function to display all books saved in the collection
