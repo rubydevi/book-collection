@@ -1,0 +1,12 @@
+ul {
+  list-style-type: none;
+}
+
+#book-form {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  justify-content: space-evenly;
+  gap: 5px;
+}
