@@ -55,6 +55,16 @@ const addBook = (title, author) => {
   displayBooks();
 };
 
+// Submit Book Form
+const submitBookForm = (event) => {
+  event.preventDefault();
+  const titleInput = document.getElementById('title');
+  const authorInput = document.getElementById('author');
+  addBook(titleInput.value, authorInput.value);
+  titleInput.value = '';
+  authorInput.value = '';
+};
+
 // Initial book list display
 displayBooks();
 
