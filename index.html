@@ -7,15 +7,23 @@
   <title>Book Collection</title>
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
-  <h1>Awesome Books</h1>
-  <ul id="bookList"></ul>
+<body>  
+  <div class="container">
+    <h1>Awesome Books</h1>
+    <ul id="bookList" class="table">
 
-  <form id="bookContent">
-    <input type="text" id="title" placeholder="Title" required>
-    <input type="text" id="author" placeholder="Author" required>
-    <button type="submit" id="btnAddBook">Add Book</button>
-  </form>
+    </ul>
+    
+    <hr>
+    
+    <form id="bookContent">
+      <div class="form-content">
+        <input type="text" id="title" placeholder="Title" required>
+        <input type="text" id="author" placeholder="Author" required>
+        <button type="submit" id="btnAddBook">Add Book</button>
+      </div>
+    </form>
+  </div>
 
   <script src="script.js"></script>
 </body>
