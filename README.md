@@ -19,12 +19,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# book-collection
-In this project, I will build a basic website that allows users to add/remove books from a list. I will achieve that by using JavaScript objects and arrays. I will also need to dynamically modify the DOM and add basic events.
+# 📖 book-collection <a name="about-project"></a>
 
-# 📖 Vedic Astrology Workshop <a name="about-project"></a>
-
-**Vedic Astrology Workshop** is a project organized by Ruby Astro with the aim of bringing together the ancient practice of Jyotish Astrology and introducing it to the younger generation. This workshop invites renowned astrologers from all over the world to provide an opportunity for astrology enthusiasts, both within and outside the state, to engage in direct interactions with these experts.
+**book-collection** In this project, I will build a basic website that allows users to add/remove books from a list. I will achieve that by using JavaScript objects and arrays. I will also need to dynamically modify the DOM and add basic events.
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -41,7 +38,7 @@ In this project, I will build a basic website that allows users to add/remove bo
 ### Key Features <a name="key-features"></a>
 
 - **Linters**
-- **Responsiveness**
+- **Simple Web Design**
 - **DOM Manipulation**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -50,7 +47,8 @@ In this project, I will build a basic website that allows users to add/remove bo
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://rubydevi.github.io/the-korner-capstone/)
+<!-- - [Live Demo Link](https://rubydevi.github.io/the-korner-capstone/) -->
+- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,9 +128,14 @@ To run tests, run the following command:
 
 👤 **Chongtham Ruby Devi**
 
-- GitHub: [@githubhandle](https://github.com/rubydevi)
-- Twitter: [@twitterhandle](https://twitter.com/ariesabyss)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chongtham-bhoomika/)
+- GitHub: [@rubydevi](https://github.com/rubydevi)
+- Twitter: [@arieabyss](https://twitter.com/ariesabyss)
+- LinkedIn: [Chongtham Ruby Devi](https://www.linkedin.com/in/chongtham-bhoomika/)
+
+👤 **Uwimbabazi Dorcas**
+- GitHub: [@Dorcas126](https://github.com/Dorcas126)
+- Twitter: [@Dorcasuw](https://twitter.com/Dorcasuwi)
+- LinkedIn: [Uwimbabazi Dorcas](https://www.linkedin.com/in/uwimbabazi-dorcas-956a5a226/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,7 +168,6 @@ If you like this project please leave a star, I'd really appreciate it.
 ## Acknowledgments <a name="acknowledgements"></a>
 
 - I'd like to thank Microverse for this wonderful README template.
-- I'd also like to thank [Shinn](https://github.com/Pi1998) for your team ef.
 
 <!-- LICENSE -->
 
