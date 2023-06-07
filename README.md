@@ -37,9 +37,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Linters**
-- **Simple Web Design**
-- **DOM Manipulation**
+- **Book Management**
+- **Interactive UI**
+- **Single Page App**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
