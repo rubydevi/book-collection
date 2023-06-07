@@ -47,8 +47,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<!-- - [Live Demo Link](https://rubydevi.github.io/the-korner-capstone/) -->
-- N/A
+- [Live Demo Link](https://rubydevi.github.io/book-collection/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
